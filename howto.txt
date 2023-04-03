@@ -1,0 +1,5 @@
+Create the screen
+Create the moving turtle
+Create one car 
+Create a bunch of random cars
+Create the color of the cars 
