@@ -3,7 +3,7 @@ from myturtle import MyTurtle
 from car_management import Car_Management
 from car_scoreboard import Scoreboard
 
-import time 
+import time
 
 myturtle = MyTurtle()
 car_management = Car_Management()
